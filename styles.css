@@ -1,0 +1,13 @@
+.path-mod-peer .singleselect {
+    float: right;
+}
+
+.path-mod-peer .mod_peer_grouppicture {
+    width: 120px;
+    height: auto;
+    float: left;
+}
+
+.path-mod-peer .mod_peer_review_content {
+    margin-left: 120px;
+}
